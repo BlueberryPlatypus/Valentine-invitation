@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
+    "weh baaa?",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "Tunay ba too :((?",
+    "Pookie bear please...",
+    "Pag isipan mo my honey bunch sugar plum!",
+    "Sabihin ko to ke tita ayaw mo makipag valentines saken hmp",
+    "Sad nako nan :((",
+    "super duper sad na kooo tingnan moo",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Joke lang nyenyee bawal yung hinde blee ❤️"
 ];
 
 let messageIndex = 0;
